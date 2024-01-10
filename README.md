@@ -1,4 +1,4 @@
-# Internshala:Yeshwanth Sangram And Co | Web Development
+Web Development
 
 1)Clone or download the zip file into your htdocs folder in xampp with a suitable name.
 
